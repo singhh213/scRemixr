@@ -86,11 +86,11 @@ input[type="submit"]:active {
 }
 
 #form {
-  width: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 6em;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6em;
 }
 
 h1 {
